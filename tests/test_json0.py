@@ -1,7 +1,7 @@
 # coding=UTF-8
 
 import unittest
-from json0 import TypeJSON
+from pyson0 import TypeJSON
 
 class JSON0Tests(unittest.TestCase):
     def test_applyNumberAdd(self):
