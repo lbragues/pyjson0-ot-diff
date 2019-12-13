@@ -347,6 +347,3 @@ class Pyson0diffTests(unittest.TestCase):
                 {'li': {'content': 'g'}, 'p': ['nodes',2]}
             ]
         )
-
-if __name__ == "__main__":
-    unittest.main()

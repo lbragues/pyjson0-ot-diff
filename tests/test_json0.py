@@ -99,6 +99,3 @@ class JSON0Tests(unittest.TestCase):
             ),
             {'x': 'b'}
         )
-
-if __name__ == "__main__":
-    unittest.main()
