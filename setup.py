@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 # https://packaging.python.org/tutorials/packaging-projects/
 
 setuptools.setup(
-    name="pyson0-lbragues",
+    name="pyson0",
     version="0.1",
     author="Leandro Braguês",
     author_email="lbragues@gmail.com",
